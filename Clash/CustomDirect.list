@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,wotblitz.com
 DOMAIN-SUFFIX,wotblitz.eu
 DOMAIN-SUFFIX,wotblitz.asia
 DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,ohhhh.org
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,msftconnecttest.com
@@ -33,5 +34,6 @@ DOMAIN-KEYWORD,spotify.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,ariba.com
 DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,starrails.com
-DOMAIN-SUFFIX,hoyoverse.com
+
+#DOMAIN-SUFFIX,starrails.com
+#DOMAIN-SUFFIX,hoyoverse.com
