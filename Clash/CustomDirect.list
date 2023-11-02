@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,cdn.office.net
 #DOMAIN-SUFFIX,spotifycdn.com
 #DOMAIN-SUFFIX,spotifycdn.net
 #DOMAIN-KEYWORD,spotify.com
-DOMAIN-SUFFIX,spotify.com
+#DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,ariba.com
 DOMAIN-SUFFIX,windowsupdate.com
 
