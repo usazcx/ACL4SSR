@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,cdn.office.net
 #DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,ariba.com
 DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamserver.net
 
 #DOMAIN-SUFFIX,starrails.com
 #DOMAIN-SUFFIX,hoyoverse.com
