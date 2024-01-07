@@ -27,16 +27,19 @@ payload:
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,cdn.office.net
-  - #DOMAIN-SUFFIX,spoti.fi
-  - #DOMAIN-SUFFIX,spotifycdn.com
-  - #DOMAIN-SUFFIX,spotifycdn.net
-  - #DOMAIN-KEYWORD,spotify.com
-  - #DOMAIN-SUFFIX,spotify.com
+  # - DOMAIN-SUFFIX,spoti.fi
+  # - DOMAIN-SUFFIX,spotifycdn.com
+  # - DOMAIN-SUFFIX,spotifycdn.net
+  # - DOMAIN-KEYWORD,spotify.com
+  # - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,ariba.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamserver.net
-  - #DOMAIN-SUFFIX,starrails.com
-  - #DOMAIN-SUFFIX,hoyoverse.com
-  - #DOMAIN-SUFFIX,pscdn.co
-  - #DOMAIN-SUFFIX,scdn.co
+  - IP-CIDR,130.162.152.76/32
+  - IP-CIDR,162.159.58.168/32
+  - IP-CIDR,104.18.71.113/32
+  # - DOMAIN-SUFFIX,starrails.com
+  # - DOMAIN-SUFFIX,hoyoverse.com
+  # - DOMAIN-SUFFIX,pscdn.co
+  # - DOMAIN-SUFFIX,scdn.co
