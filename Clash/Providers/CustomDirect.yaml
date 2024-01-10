@@ -10,18 +10,19 @@ payload:
   - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN-SUFFIX,paleo918.ga
   - DOMAIN-SUFFIX,picleo.eu.org
-  - DOMAIN-SUFFIX,emby.plusmedia.site
-  - DOMAIN-SUFFIX,misakaf.xyz
-  - DOMAIN-SUFFIX,goodisp.org
-  - DOMAIN-SUFFIX,film.goodisp.org
+  
   - DOMAIN-SUFFIX,wotb.app
   - DOMAIN-SUFFIX,wotblitz.com
   - DOMAIN-SUFFIX,wotblitz.eu
   - DOMAIN-SUFFIX,wotblitz.asia
   - DOMAIN-SUFFIX,wargaming.net
+  
   - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,goodisp.org  
   - DOMAIN-SUFFIX,ohhhh.org
   - DOMAIN-SUFFIX,123456.al
+  - DOMAIN-SUFFIX,imetyou.top
+  - DOMAIN-SUFFIX,bangumi.ca  
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
