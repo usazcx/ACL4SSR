@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - IP-CIDR,130.162.152.76/32,no-resolve
   - IP-CIDR,162.159.58.168/32,no-resolve
+  - IP-CIDR,162.159.58.158/32,no-resolve  
   - IP-CIDR,104.18.71.113/32,no-resolve
   # - DOMAIN-SUFFIX,starrails.com
   # - DOMAIN-SUFFIX,hoyoverse.com
