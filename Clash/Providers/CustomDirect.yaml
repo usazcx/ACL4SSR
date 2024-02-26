@@ -16,8 +16,13 @@ payload:
   - DOMAIN-SUFFIX,wotblitz.eu
   - DOMAIN-SUFFIX,wotblitz.asia
   - DOMAIN-SUFFIX,wargaming.net
-  
-  - DOMAIN-SUFFIX,misakaf.org
+
+#emby
+  # - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,stream1.misakaf.org
+  - DOMAIN-SUFFIX,stream2.misakaf.org
+  - DOMAIN-SUFFIX,stream3.misakaf.org
+  - DOMAIN-SUFFIX,stream4.misakaf.org  
   - DOMAIN-SUFFIX,goodisp.org  
   - DOMAIN-SUFFIX,ohhhh.org
   - DOMAIN-SUFFIX,123456.al
@@ -32,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamserver.net
+#ip  
   - IP-CIDR,130.162.152.76/32,no-resolve
   - IP-CIDR,162.159.58.168/32,no-resolve
   - IP-CIDR,162.159.58.158/32,no-resolve  
