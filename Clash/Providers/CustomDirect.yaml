@@ -19,6 +19,7 @@ payload:
 
 #emby
   - DOMAIN-SUFFIX,emby.misakaf.org
+  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,stream1.misakaf.org
   - DOMAIN-SUFFIX,stream2.misakaf.org
   - DOMAIN-SUFFIX,stream3.misakaf.org
