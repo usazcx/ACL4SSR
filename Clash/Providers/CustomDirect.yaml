@@ -26,7 +26,8 @@ payload:
   - DOMAIN-SUFFIX,stream2.misakaf.org
   - DOMAIN-SUFFIX,stream3.misakaf.org
   - DOMAIN-SUFFIX,stream4.misakaf.org  
-  - DOMAIN-SUFFIX,goodisp.org  
+  - DOMAIN-SUFFIX,goodisp.org
+  - DOMAIN-SUFFIX,hovervan.org
   - DOMAIN-SUFFIX,ohhhh.org
   - DOMAIN-SUFFIX,123456.al
   - DOMAIN-SUFFIX,imetyou.top
