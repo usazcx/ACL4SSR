@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,picleo.eu.org
   - DOMAIN-SUFFIX,paleon.eu.org
   - DOMAIN-SUFFIX,gpushare.com
+  - DOMAIN-SUFFIX,glaruntech.com
 
   - DOMAIN-SUFFIX,wotb.app
   - DOMAIN-SUFFIX,wotblitz.com
