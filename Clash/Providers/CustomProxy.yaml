@@ -2,3 +2,4 @@ payload:
   # - DOMAIN-SUFFIX,sharepoint.com
   # - DOMAIN-KEYWORD,1drv
   - DOMAIN-SUFFIX,nhk.or.jp
+  - DOMAIN-KEYWORD,par-nhk-web
