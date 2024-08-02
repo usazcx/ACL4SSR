@@ -4,4 +4,5 @@ payload:
   - DOMAIN-SUFFIX,nhk.or.jp
   - DOMAIN-SUFFIX,par-nhk-live-f.ovpobs.tv
   - DOMAIN-SUFFIX,par-nhk-app.ovpobs.tv
+  - DOMAIN-SUFFIX,par-nhk-web.ovpobs.tv
   #- DOMAIN-KEYWORD,nhk
