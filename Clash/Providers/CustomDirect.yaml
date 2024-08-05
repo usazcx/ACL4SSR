@@ -21,16 +21,16 @@ payload:
   - DOMAIN-SUFFIX,wargaming.net
 
 #emby
-  - DOMAIN-SUFFIX,emby.misakaf.org
+#  - DOMAIN-SUFFIX,emby.misakaf.org
   - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,stream1.misakaf.org
-  - DOMAIN-SUFFIX,stream2.misakaf.org
-  - DOMAIN-SUFFIX,stream3.misakaf.org
-  - DOMAIN-SUFFIX,stream4.misakaf.org  
+#  - DOMAIN-SUFFIX,stream1.misakaf.org
+#  - DOMAIN-SUFFIX,stream2.misakaf.org
+#  - DOMAIN-SUFFIX,stream3.misakaf.org
+#  - DOMAIN-SUFFIX,stream4.misakaf.org  
   - DOMAIN-SUFFIX,goodisp.org
   - DOMAIN-SUFFIX,hovervan.org
   - DOMAIN-SUFFIX,ohhhh.org
-  - DOMAIN-SUFFIX,123456.al
+#  - DOMAIN-SUFFIX,123456.al
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,bangumi.ca  
   - DOMAIN-SUFFIX,edu.cn
